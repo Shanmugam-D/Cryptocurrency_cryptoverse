@@ -1,3 +1,5 @@
+# Cryptoverse-Cryptourrency DashBoard 
+It is a simple dashboard that displays the current price of Bitcoin, Ethereum, and other cryptocurrencies.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
